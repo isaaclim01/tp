@@ -5,6 +5,10 @@ mark {
   padding-bottom: 0;
 }
 
+#page-nav * {
+    font-size: 14px;
+}
+
 .nav-link {
   color: #3366CC;
   font-size: 19px;
@@ -92,6 +96,7 @@ mark {
 
 .nav-component {
   overflow-y: auto;
+  font-size: 17px;
 }
 
 #page-nav {
@@ -173,3 +178,22 @@ h5,
 h6 {
   color: #e46c0a;
 }
+
+#developerTitle {
+    font-family: "Copperplate";
+    color: #660710;
+}
+
+.developerHeader {
+    color: #995631;
+    font-weight: bold;
+}
+
+.developerHeader2 {
+    color: #6F3417;
+}
+
+.no-bullets {
+    font-family: "Verdana";
+}
+
